@@ -1,6 +1,7 @@
 # Viva Calif Sales & Customer Insights Dashboard
 
 A comprehensive sales performance and customer behavior analysis dashboard created entirely in **Microsoft Excel**. This project visualizes key business metrics to track trends, logistics, and customer satisfaction.
+
 *Implementation based on the tutorial by [Chandoo](https://youtu.be/l5qkg8gzY6E?si=jrwg0XdTqDd97JW7).*
 ## Key Insights & Visuals
 - **Sales Performance:** Tracking orders (2,400), total quantity (11,997), and revenue ($649.0k).
